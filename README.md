@@ -38,9 +38,11 @@ True value is output. Output example: You were born on Sunday and Your akan name
 True value is output. Output example: You were born on Sunday and Your akan name is Akosua! &nbsp If your gender is female.
 
 # Github Pages link
-
+# pcyuzuzo.github.io/week2ip/.
 # CONTACT
 If you have any question or compliment; feel free to email me on [pcyuzuzo1@gmail.com]
+# License
+Copyright (c) 2020 Patience Cyuzuzo
 
 
 
